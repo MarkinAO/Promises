@@ -1,5 +1,4 @@
 import GameSavingLoader from '../js/GameSavingLoader';
-import read from '../js/reader';
 
 test('Test GameSavingLoader', (done) => {
   const expectedResult = {
